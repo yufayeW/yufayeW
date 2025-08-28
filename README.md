@@ -1,7 +1,12 @@
-千里黄云白日曛，北风吹雁雪纷纷。
-
-
-<!---
-yufayeW/yufayeW is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+YUFEI🌟 
+About Me
+🎓 Engineering student in Automation
+💻 Skills: C, Python
+Project Experience:
+Image Processing and Generation	
+Blockchain Video Trading System
+🔍 Learning Style: prefer Case Studies
+🤝 What I Offer:
+		Technical (computer wise) Support (if GPT couldn’t help)
+		Dare to try new things
+<img width="1758" height="1060" alt="image" src="https://github.com/user-attachments/assets/c58a04eb-bc62-4fe4-8dc9-b475c2ddd94e" />
